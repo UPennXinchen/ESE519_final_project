@@ -5,3 +5,7 @@ circumstances. A mini fan is introduced to the system, which helps cool down the
 mobile devices which means users have the highest priority. And the connection is through a WIFI
 module ESP8266. When there’s no users’ intervention, the mini fan can run by itself if the temperature
 goes high.
+
+########
+First_arduino sense the ADC, control the LEDs, buzzer and LCD display.
+Second_arduino sense the ADC, control the FAN with PWM and connect to Node MCU.
