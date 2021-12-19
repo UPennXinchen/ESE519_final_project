@@ -9,4 +9,5 @@ goes high.
 ##########
 
 First_arduino sense the ADC, control the LEDs, buzzer and LCD display.
+
 Second_arduino sense the ADC, control the FAN with PWM and connect to Node MCU.
